@@ -13,7 +13,7 @@ Crie o arquivo e o abra:
   sudo nano 00-interfaces.yaml
 ```
 
-Com o arquivo aberto no edito do Linux, cole o código abaixo:
+Com o arquivo aberto no editor do Linux, cole o código abaixo:
 
 ```bash
   network:
