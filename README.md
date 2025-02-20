@@ -6,7 +6,7 @@ Este repositório contém um conjunto de recursos, tutoriais e boas práticas pa
 
 ### Documentação
 
-- [**Configuração de Rede IPv6**](documentacao/config-ipv6)
+- [**Configuração de Rede IPv6**](documentacao/config-ipv6.md)
 
 ### Exemplos
 
