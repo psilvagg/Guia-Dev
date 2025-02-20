@@ -1,4 +1,4 @@
-# Guida-dev
+# Guia-dev
 
 Este repositório contém um conjunto de recursos, tutoriais e boas práticas para desenvolvedores.
 
