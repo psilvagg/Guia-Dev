@@ -1,10 +1,21 @@
-# Guia-dev
+# Guia Dev
 
-Este repositório contém um conjunto de recursos, tutoriais e boas práticas para desenvolvedores.
+Este repositório contém um conjunto de recursos, tutoriais e boas práticas para desenvolvedores. O objetivo é oferecer uma maneira simples de aprender e aplicar conceitos de desenvolvimento de software em diferentes linguagens e ferramentas.
 
 ## Estrutura do Projeto
 
-- [**/documentacao**](./documentacao): Guias e tutoriais sobre diversas tecnologias.
-- [**/exemplos**](./exemplos): Exemplos de código em várias linguagens.
-- [**/boas-praticas**](./boas-praticas): Melhores práticas e padrões de código.
-- [**/ferramentas**](./ferramentas): Ferramentas úteis para o desenvolvimento.
+### Documentação
+
+- [**Configuração de Rede IPv6**](./documentacao/config-ipv6.md)
+
+### Exemplos
+
+- [****]()
+
+### Boas Práticas
+
+- [****]()
+
+### Ferramentas
+
+- [****]()
